@@ -85,5 +85,12 @@ Flashing lights, lights<br>
 <br>[Fade out]<br>
 Lights, lights, lights, lights...
 </p>
+<form>
+   First name:<br>
+   <input type="text" name="firstname"><br>
+   Last name:<br>
+   <input type="text" name="lastname">
+</form>
+
 </body>
 </html>
