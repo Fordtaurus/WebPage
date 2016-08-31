@@ -86,11 +86,12 @@ Flashing lights, lights<br>
 Lights, lights, lights, lights...
 </p>
 
-<form>
+<form action="">
    First name:<br>
-   <input type="text" name="firstname"><br>
+   <input type="text" name="firstname" value="Lebraun"><br>
    Last name:<br>
-   <input type="text" name="lastname">
+   <input type="text" name="lastname" value="Ford"><br><br>
+   <input type="submit" value="Submit">
 </form>
 
 </body>
