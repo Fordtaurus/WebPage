@@ -7,6 +7,19 @@
 
 <img src="Stand color.jpg" width="400" height="500">
 
+<a href="http://www.footpatrol.co.uk/shop">A Dope Boutique</a>
+<ol>
+   <li>Jordans</li>
+   <li>Shorts</li>
+   <li>T-Shirt</li>
+</ol>
+
+<ul>
+  <li>Colors</li>
+  <li>Smile</li>
+  <li>Swag</li>
+</ul>
+
 <p>
 Flashing lights, lights<br>
 Flashing lights, lights<br>
