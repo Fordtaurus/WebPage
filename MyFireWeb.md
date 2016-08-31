@@ -12,6 +12,12 @@
    <li>T-Shirt</li>
 </ol>
 
+<ul>
+  <li>Colors</li>
+  <li>Smile</li>
+  <li>Swag</li>
+</ul>
+
 <p>
 Flashing lights, lights<br>
 Flashing lights, lights<br>
