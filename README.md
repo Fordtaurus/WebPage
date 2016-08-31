@@ -91,7 +91,7 @@ Lights, lights, lights, lights...
    <input type="text" name="firstname" value="Lebraun"><br>
    Last name:<br>
    <input type="text" name="lastname" value="Ford"><br><br>
-   <input type="submit" value="Submit">
+   <input type="submit">
 </form>
 
 </body>
