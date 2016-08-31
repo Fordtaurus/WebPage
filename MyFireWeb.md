@@ -6,6 +6,11 @@
 <h1>LeBraun Ford</h1>
 
 <img src="Stand color.jpg" width="400" height="500">
+<ol>
+   <li>Jordans</li>
+   <li>Shorts</li>
+   <li>T-Shirt</li>
+</ol>
 
 <p>
 Flashing lights, lights<br>
