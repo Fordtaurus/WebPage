@@ -88,9 +88,9 @@ Lights, lights, lights, lights...
 
 <form action="">
    First name:<br>
-   <input type="text" name="firstname" value="Lebraun"><br>
+   <input type="text" name="firstname"><br>
    Last name:<br>
-   <input type="text" name="lastname" value="Ford"><br><br>
+   <input type="text" name="lastname"><br><br>
    <input type="submit">
 </form>
 
